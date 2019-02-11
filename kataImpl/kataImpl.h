@@ -12,8 +12,8 @@
 void convertedFeetToInches(){
 
     int height=0;
-    int foot;
-    int inch;
+    int foot=0;
+    int inch=0;
 
     printf("请分别输入身高是(正整数):\n");
     scanf("%d厘米\n", &height);
